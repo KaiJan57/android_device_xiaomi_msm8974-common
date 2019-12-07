@@ -246,7 +246,8 @@ PRODUCT_PACKAGES += \
     fstab.qcom \
     init.qcom.rc \
     init.target.rc \
-    init.qcom.usb.rc
+    init.qcom.usb.rc \
+	init.safailnet.rc
 
 # Radio
 PRODUCT_PACKAGES += \
