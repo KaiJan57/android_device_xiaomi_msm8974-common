@@ -1,10 +1,14 @@
 [
  {
-   "repository": "android_vendor_xiaomi_msm8974-common",
-   "target_path": "vendor/xiaomi/msm8974-common"
+   "remote"     : "github",
+   "repository" : "xiaomi-classic-dev/android_vendor_xiaomi_msm8974-common",
+   "target_path": "vendor/xiaomi/msm8974-common",
+   "branch"     : "mkq-mr1"
  },
  {
-   "repository": "android_kernel_xiaomi_virgo",
+   "remote"     : "github",
+   "repository" : "xiaomi-classic-dev/android_kernel_xiaomi_virgo",
    "target_path": "kernel/xiaomi/virgo"
+   "branch"     : "mkq-mr1"
  }
 ]
